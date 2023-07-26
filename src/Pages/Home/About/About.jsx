@@ -2,13 +2,13 @@ import React from 'react';
 
 const About = () => {
     return (
-        <div className='flex justify-around'>
+        <div className='lg:flex justify-around'>
             <div className='h-2/3'>
                 <img src="https://i.ibb.co/YWFCFcj/mh-itch.jpg" width={400} alt="" />
             </div>
-            <div className='w-2/4 my-auto'>
+            <div className='lg:w-2/4 my-auto'>
                 <h2 className='text-center text-yellow-700 text-2xl font-bold'>About Us</h2>
-                <p>Mh itch is a cutting-edge IT business. It offers a wide range of IT services and products
+                <p>Mh itech is a cutting-edge IT business. It offers a wide range of IT services and products
                  on a local and global level. We take note of your creative suggestions and implement
                  them as you see fit. Our customer-centric services include web development, app development,
                  artificial intelligence and robotics, eCommerce management, content creation, and many more. Our

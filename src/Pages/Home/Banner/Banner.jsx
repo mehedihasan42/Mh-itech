@@ -21,7 +21,7 @@ const Banner = () => {
       }, []);
 
     const text = <>
-        <h1 data-aos="fade-down-right" className="mb-5 text-3xl lg:text-5xl font-bold text-white">Mh <span className='text-[#DAFF0D]'>itch</span></h1>
+        <h1 data-aos="fade-down-right" className="mb-5 text-3xl lg:text-5xl font-bold text-white">Mh <span className='text-[#DAFF0D]'>itech</span></h1>
         <p data-aos="fade-up-right" className="mb-5 lg:w-2/4 font-bold">Mh itch is a cutting-edge IT business. It offers a wide range of IT services and products
                  on a local and global level.We take note of your creative suggestions and implement
                  them as you see fit. Our customer-centric services include web development, app development,

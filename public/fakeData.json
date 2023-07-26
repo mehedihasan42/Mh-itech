@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "service": "UI/UX Design",
+        "image": "https://media.istockphoto.com/id/1315234035/photo/ux-word-composed-with-green-abc-alphabet-letters-copy-space.jpg?s=2048x2048&w=is&k=20&c=6EzTCiuz1VR-3Xa_T0Pv2ZCKiOY7Bh3E5H5T47OVuTA=",
+        "description": "Alice is a talented UI/UX designer with a passion for creating intuitive and visually appealing user experiences."
+      },
+      {
+        "id":2,
+        "service": "Web Development",
+        "image": "https://plus.unsplash.com/premium_photo-1685086785636-2a1a0e5b591f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80",
+        "description": "John is a skilled web developer who loves building responsive and feature-rich websites."
+      },
+      {
+        "id":3,
+        "service": "App Development",
+        "image": "https://media.istockphoto.com/id/1195696110/photo/hands-using-mobile-payments-digital-marketing-banking-network-online-shopping-and-icon.jpg?s=2048x2048&w=is&k=20&c=L66tF46AUFCt_yZRXKjp-XT6SrgVLdAzChiB7qE5Arg=",
+        "description": "Emily is a creative app developer known for crafting innovative and efficient mobile applications."
+      }      
+]
