@@ -19,21 +19,18 @@ const Testimonial = () => {
     return (
 
         <>
-         <h2 className='text-center text-yellow-700 text-2xl font-bold'>Why Choose Us?</h2>
+         <h2 className='text-center text-yellow-700 text-2xl font-bold'>Testimonial</h2>
             <Swiper navigation={true} modules={[Navigation]} className="mySwiper">
         {
             infos.map(info=>
                 <SwiperSlide key={info.id}>
                 <div className="card w-96 lg:w-1/3 bg-base-100 shadow-xl mx-auto">
                <figure className="px-10 pt-10">
-                 <img src="/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg" alt="Shoes" className="rounded-xl" />
+                 <img src={info.image} alt="Shoes" className="rounded-xl" />
                </figure>
                <div className="card-body items-center text-center">
-                 <h2 className="card-title">Shoes!</h2>
-                 <p>If a dog chews shoes whose shoes does he choose?</p>
-                 <div className="card-actions">
-                   <button className="btn btn-primary">Buy Now</button>
-                 </div>
+                 <h2 className="card-title">{info.name}</h2>
+                 <p>{info.description}</p>
                </div>
              </div>
                 </SwiperSlide>

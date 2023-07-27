@@ -9,11 +9,11 @@ const Services = () => {
     }, [])
     return (
         <div>
-            <h2 className='text-center text-yellow-700 text-2xl font-bold'>Our Services</h2>
-            <div className='lg:flex justify-center'>
+            <h2 className='text-center text-yellow-700 text-2xl font-bold my-6'>Our Services</h2>
+            <div data-aos="fade-up-right" className='lg:flex justify-center space-y-6'>
                 {
                     info.map(data =>
-                        <div key={data.id} className="card card-compact w-96 bg-base-100 shadow-xl">
+                        <div key={data.id} className="card card-compact w-80 lg:w-96 mx-auto bg-base-100 shadow-xl">
                             <figure><img src={data.image} width={300} alt="Shoes" /></figure>
                             <div className="card-body">
                                 <h2 className="card-title">{data.service}</h2>

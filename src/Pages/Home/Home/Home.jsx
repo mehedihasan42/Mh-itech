@@ -5,6 +5,8 @@ import About from '../About/About';
 import Services from '../Services/Services';
 import Choose from '../Choose/Choose';
 import Testimonial from '../Testimonial/Testimonial';
+import Footer from '../Footer/Footer';
+import Contact from '../Contact/Contact';
 
 const Home = () => {
     return (
@@ -16,6 +18,8 @@ const Home = () => {
            <Services></Services>
            <Choose></Choose>
            <Testimonial></Testimonial>
+           <Contact></Contact>
+           <Footer></Footer>
         </div>
           </>
     );

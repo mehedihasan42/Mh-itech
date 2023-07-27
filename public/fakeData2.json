@@ -1,22 +1,22 @@
 [
     {
-        "image": "https://example.com/testimonial1.jpg",
+        "image": "https://plus.unsplash.com/premium_photo-1661458250442-6b05c82774ee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
         "name": "Sarah Johnson",
-        "description": "Working with this company has been a game-changer for my business. Their expertise and dedication to delivering results are truly remarkable. I highly recommend their services to anyone looking to elevate their online presence."
+        "description": "Working with this company has been a game-changer for my business."
       },
       {
-        "image": "https://example.com/testimonial2.jpg",
+        "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
         "name": "Michael Smith",
-        "description": "I'm extremely impressed with the level of professionalism and creativity displayed by the team. They went above and beyond to develop a website that perfectly aligns with our brand and vision. It's been a pleasure collaborating with them."
+        "description": "I'm extremely impressed with the level of professionalism and creativity displayed by the team."
       },
       {
-        "image": "https://example.com/testimonial3.jpg",
+        "image": "https://media.istockphoto.com/id/1435745704/photo/portrait-of-smiling-mid-adult-businessman-standing-at-corporate-office.jpg?s=2048x2048&w=is&k=20&c=GEVT5y1Q8Gcf8M8lg2FMzb_WGc_zgm_nb312SG_DUzo=",
         "name": "Jennifer Lee",
-        "description": "The app developed by this team exceeded all my expectations. They listened attentively to my ideas and transformed them into a seamless and user-friendly mobile application. Their prompt support and attention to detail are commendable."
+        "description": "The app developed by this team exceeded all my expectations."
       },
       {
-        "image": "https://example.com/testimonial4.jpg",
+        "image": "https://images.unsplash.com/photo-1474176857210-7287d38d27c6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
         "name": "David Brown",
-        "description": "I can't thank this company enough for the outstanding UI/UX design they delivered for our project. They grasped our requirements quickly and delivered a stunning design that resonated with our target audience. I look forward to working with them again."
+        "description": "I can't thank this company enough for the outstanding UI/UX design they delivered for our project."
       }     
 ]
